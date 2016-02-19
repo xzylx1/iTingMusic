@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ### Android template
+=======
+>>>>>>> 274a4c70bb079a5d0157eacbf65c2144bd19f481
 # Built application files
 *.apk
 *.ap_
@@ -29,4 +32,9 @@ proguard/
 # Android Studio Navigation editor temp files
 .navigation/
 
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
+=======
+# Android Studio captures folder
+captures/
+>>>>>>> 274a4c70bb079a5d0157eacbf65c2144bd19f481
